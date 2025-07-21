@@ -46,15 +46,6 @@ Together, we can make this roadmap a valuable resource for front-end developers 
 - [HTML & CSS](#html--css)
 - [Javascript](#javascript)
 - [Data Structures & Algorithms](#Data-Structures--Algorithms)
-- [TypeScript](#TypeScript)
-- [React](#react)
-- [Vue](#vue)
-- [Version Control and Collaboration](#Version-Control-and-Collaboration)
-- [Testing](#Testing)
-- [NextJs](#NextJs)
-- [Web Performance](#Web-Performance)
-- [DevOps For Frontend](#DevOps-For-Frontend)
-
 ---
 
 ## HTML & CSS
